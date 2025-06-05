@@ -6,4 +6,4 @@ Kookmin University. SW
 
 12-1 practice
 
-error!!
+error?
